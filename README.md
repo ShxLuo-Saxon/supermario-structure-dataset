@@ -164,7 +164,7 @@ The pieces are the Super Mario transcriptions on NinSheetMusic, a fan site of pi
 
 ## Distribution and Maintenance
 
-- Version 1.0, archived on Zenodo; the DOI follows with the first release.
+- Version 1.0, archived on Zenodo: [doi:10.5281/zenodo.23915907](https://doi.org/10.5281/zenodo.23915907). The DOI [10.5281/zenodo.23915906](https://doi.org/10.5281/zenodo.23915906) always resolves to the latest version.
 - Errors and questions: open an issue in this repository, or write to Shangxuan Luo (s.luo@qmul.ac.uk). Corrections are released as new versions; earlier versions stay available on Zenodo.
 
 ## Licence
@@ -181,7 +181,8 @@ Please cite the dataset:
   author={Luo, Shangxuan and Guo, Zixun and Shi, Jinjie and Reiss, Joshua},
   year={2026},
   version={1.0},
-  publisher={Zenodo}
+  publisher={Zenodo},
+  doi={10.5281/zenodo.23915907}
 }
 ```
 
